@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨‍💻 StudyWithDanish
 
-<!--
-**studywithdanish/studywithdanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub — A Central Hub for Java, DevOps, and Cloud Tutorials in Hindi!**
 
-Here are some ideas to get you started:
+🎯 I'm Danish Khan – a Java backend developer with 6+ years of experience, building a YouTube channel for working professionals and job switchers.  
+🎥 Check out my channel: [Study With Danish](https://www.youtube.com/@Study_With_Danish)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Playlists & Repositories
+
+| Playlist            | GitHub Repo |
+|---------------------|-------------|
+| 🔧 Git (Zero to Hero) | [Git Notes & Project](https://github.com/studywithdanish/git-remote-demo) |
+| 🐧 Linux (Coming Soon) | _In progress..._ |
+| ☁️ AWS & DevOps Tools | _Planned..._ |
+| 💻 Java + Spring Boot | _Uploading soon..._ |
+
+---
+
+## 🛠️ Technologies I Work With
+
+`Java` `Spring Boot` `MySQL` `MongoDB` `Docker` `Linux` `AWS`  
+`Git & GitHub` `Microservices` `JUnit` `Prometheus` `Grafana`  
+`Jenkins` `Kubernetes` `Ansible` `Terraform` `Kafka`
+
+---
+
+## 📬 Contact
+
+- 📧 **Email**: studywithdanish123@gmail.com  
+- 🔗 **YouTube**: [Study With Danish](https://www.youtube.com/@Study_With_Danish)  
+- 🔗 **GitHub**: [studywithdanish](https://github.com/studywithdanish)
+
+---
+
+_🚀 Learning never stops. Follow for regular updates on tools, projects, and tutorials._
+
